@@ -12,7 +12,7 @@ I'm 24 years old, I have bachelor in civil engineering from MEU._
 \# | Topic 
 --- | ---
 1 | [Introductory HTML and JavaScript](class-01)
-2 | [Soon]()
+2 | [Basics of HTML, CSS & JS](class-02)
 3 | [Soon]()
 4 | [Soon]()
 5 | [Soon]()

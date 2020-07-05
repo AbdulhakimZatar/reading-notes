@@ -4,8 +4,8 @@
 
 
 ## Who am i?
-*I'm Abdulhakim Zatar, from Jordan, i was born in Jeddah, Saudi Arabia.
-I'm 24 years old, I have bachelor in civil engineering from MEU.*
+_I'm Abdulhakim Zatar, from Jordan, i was born in Jeddah, Saudi Arabia.
+I'm 24 years old, I have bachelor in civil engineering from MEU._
 
 ## Table of Contents
 

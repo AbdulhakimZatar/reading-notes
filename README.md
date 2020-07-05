@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Code 201 Reading Notes
 
-You can use the [editor on GitHub](https://github.com/AbdulhakimZatar/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Welcome to 201 summary, here you can find notes about Code 201 class.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Who am i?
+*I'm Abdulhakim Zatar, from Jordan, i was born in Jeddah, Saudi Arabia.
+I'm 24 years old, I have bachelor in civil engineering from MEU.*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Table of Contents
 
-```markdown
-Syntax highlighted code block
+\# | Topic 
+--- | ---
+1 | [Read ](read01)
+2 | [Soon]()
+3 | [Soon]()
+4 | [Soon]()
+5 | [Soon]()
+6 | [Soon]()
+7 | [Soon]()
+8 | [Soon]()
+9 | [Soon]()
+10 | [Soon]()
+11 | [Soon]()
+12 | [Soon]()
+13 | [Soon]()
+14 | [Soon]()
+15 | [Soon]()
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AbdulhakimZatar/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact info:
+Email me **Hakimzatar@gmail.com**.

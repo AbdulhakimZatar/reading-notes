@@ -86,12 +86,10 @@ site owner.
 * The groups of information are then turned into the diagram that is known as the site map.
 * A site map will usually begin with the homepage. Additionally, if the site is large and is compartmentalized into sections, each section might require its own section homepage to link to all of the information within it.
 
-![Example](img\ex_sitemap.png)
 
 ## WireFrames
 Wireframes allow you to organize the information that will need to go on each page.
 
-![Example](img\ex_wireframes.png)
 
 ## Designing Navigation
 Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.

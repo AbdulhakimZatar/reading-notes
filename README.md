@@ -15,7 +15,7 @@ I'm 24 years old, I have bachelor in civil engineering from MEU._
 2 | [Basics of HTML, CSS & JS](class-02)
 3 | [HTML Lists, CSS Boxes, JS Control Flow](class-03)
 4 | [HTML Links, CSS Layout, JS Functions](class-04)
-5 | [Soon]()
+5 | [HTML Images; CSS Color & Text](class-05)
 6 | [Soon]()
 7 | [Soon]()
 8 | [Soon]()

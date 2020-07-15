@@ -18,7 +18,7 @@ I'm 24 years old, I have bachelor in civil engineering from MEU._
 5 | [HTML Images; CSS Color & Text](class-05)
 6 | [JS Object Literals; The DOM](class-06)
 7 | [HTML Tables; JS Constructor Functions](class-07)
-8 | [Soon]()
+8 | [Forms and JS Events](class-08)
 9 | [Soon]()
 10 | [Soon]()
 11 | [Soon]()

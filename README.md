@@ -20,7 +20,7 @@ I'm 24 years old, I have bachelor in civil engineering from MEU._
 7 | [HTML Tables; JS Constructor Functions](class-07)
 8 | [Layout](class-08)
 9 | [Forms and JS Events](class-09)
-10 | [Soon]()
+10 | [Error Handling & Debugging](class-10)
 11 | [Soon]()
 12 | [Soon]()
 13 | [Soon]()

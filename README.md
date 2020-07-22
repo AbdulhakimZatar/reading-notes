@@ -24,8 +24,8 @@ I'm 24 years old, I have bachelor in civil engineering from MEU._
 11 | [Audio, Video, Images](class-11)
 12 | [Chart.js, Canvas](class-12)
 13 | [Local Storage](class-13)
-14 | [Soon]()
-15 | [Soon]()
+14 | [CSS Transforms, Transitions, and Animations](class-14-a)
+15 | [What Google Learned About Teams](class-14-b)
 
 ## Contact info:
 Email me **Hakimzatar@gmail.com**.

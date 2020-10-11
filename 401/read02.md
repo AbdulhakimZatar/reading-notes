@@ -66,15 +66,23 @@ msg('Hello World');
 ```
 
 ## Document the following Vocabulary Terms
-Vocabulary Terms | Document 
---- | ---
-ecosystem | is a set of software developers functioning as a unit and interacting with a shared market for software artefacts.
-Node.js | open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser.
-V8 Engine | V8 extends JavaScript by adding additional features to preform lower-level operations as C++ does.
-module | A module is any file or directory in the node_modules directory that can be loaded by the Node.js require() function.
-package | A package is a file or directory that is described by a package.json file.
-npm |  Is the largest ecosystem of open source libraries in the world.
-server | A computer that provides data to other computers.
-environment | et of processes and tools that are used to develop a source code or program.
-interpreter | program that executes instructions written in a high-level language.
-compiler | is a special program that processes statements written in a particular programming language and turns them into machine language or "code" that a computer's processor uses.
+
+**ecosystem**: Is a set of software developers functioning as a unit and interacting with a shared market for software artefacts.
+
+**Node.js**: Open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser.
+
+**V8 Engine**: V8 extends JavaScript by adding additional features to preform lower-level operations as C++ does.
+
+**Module**: A module is any file or directory in the node_modules directory that can be loaded by the Node.js require() function.
+
+**package**: A package is a file or directory that is described by a package.json file.
+
+**npm**: Is the largest ecosystem of open source libraries in the world.
+
+**server**: A computer that provides data to other computers.
+
+**environment**: Set of processes and tools that are used to develop a source code or program.
+
+**interpreter**: Program that executes instructions written in a high-level language.
+
+**compiler**: Is a special program that processes statements written in a particular programming language and turns them into machine language or "code" that a computer's processor uses.

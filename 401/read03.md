@@ -89,7 +89,6 @@ Continuous Integration (CI): is the process of automating the build and testing 
 
 ### noSQL Modeling Techniques
 NoSQL databases are often compared by various non-functional criteria, such as scalability, performance, and consistency.
-![img](https://highlyscalable.files.wordpress.com/2012/02/overview2.png?w=805)
 
 we should note that SQL and relational model in general were designed long time ago to interact with the end user.
 

@@ -97,14 +97,14 @@ In conclusion, the in memory database turned out to be perfect to test applicati
 
 ### Let's start coding!
 
-1. Setup & Install dependencies.
+1- Setup & Install dependencies.
 
-2. Write code to test.
+2- Write code to test.
 Product schema and service
 
-3. Configure jest
+3- Configure jest
 
-4. In-memory database handling
+4- In-memory database handling
 ```js
 // tests/db-handler.js
 
@@ -151,7 +151,7 @@ module.exports.clearDatabase = async () => {
 }
 ```
 
-5. Write some tests
+5- Write some tests
 ```js
 // tests/product.test.js
 
@@ -200,4 +200,4 @@ const productComplete = {
     description: 'A new dual‑camera system captures more of what you see and love. '
 };
 ```
-6. Try it out!
+6- Try it out!
